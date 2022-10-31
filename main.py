@@ -9,7 +9,7 @@ media = notas_acumulo / 4
 
 print(f"Sua nota e igual a: {media}")'''
 
-nome = "Getulio"
+'''nome = "Getulio"
 
 for i in nome:
-    print(i, end=' ')
+    print(i, end=' ')'''
