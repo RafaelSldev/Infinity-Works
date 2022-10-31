@@ -1,16 +1,15 @@
-# This is a sample Python script.
+'''notas_acumulo = 0
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+for i in range(1, 5, 1):
+    nota = float(input(f"Digite a {i}° nota: "))
 
+    notas_acumulo += nota
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+media = notas_acumulo / 4
 
+print(f"Sua nota e igual a: {media}")'''
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+nome = "Getulio"
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+for i in nome:
+    print(i, end=' ')
