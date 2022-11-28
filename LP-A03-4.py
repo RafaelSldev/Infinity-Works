@@ -9,4 +9,3 @@ if contador == 2:
     print('Número primo')
 else:
     print('Não é primo')
-
